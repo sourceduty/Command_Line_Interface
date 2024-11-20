@@ -25,6 +25,16 @@ The terminal is primarily a CLI environment but it can also support TUI applicat
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
+<br>
+[Pi OS Sim](https://github.com/sourceduty/Pi_OS_Simulator)
+<br>
+[Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+<br>
+[Arch Linux Sim](https://github.com/sourceduty/Arch_Linux_Sim)
+<br>
+[OS Developer](https://github.com/sourceduty/OS_Developer)
+<br>
+[Windows Dev](https://github.com/sourceduty/Windows_Dev)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
