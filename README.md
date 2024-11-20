@@ -23,6 +23,8 @@ The terminal is primarily a CLI environment but it can also support TUI applicat
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
