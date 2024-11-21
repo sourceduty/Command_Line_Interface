@@ -20,6 +20,9 @@ In contrast, TUI, or Text-based User Interface, also uses text for interaction b
 The terminal is primarily a CLI environment but it can also support TUI applications. A terminal provides a command line interface where users input commands as text and receive text-based outputs. However, it can run TUI applications which enhance the text interface with elements like menus, dialog boxes, and forms that are navigable via keyboard shortcuts. This hybrid capability allows users to leverage the efficiency and precision of command line operations while enjoying a more structured and user-friendly interface offered by TUIs. Popular examples of TUI applications include 'midnight commander' for file management and 'nano' as a text editor, both of which operate within terminal windows to deliver a more interactive user experience without leaving the text-based environment.
 
 #
+![Hacked](https://github.com/user-attachments/assets/e65b8180-e846-42bb-a2d8-a3bf370251f6)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
